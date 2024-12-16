@@ -1,0 +1,25 @@
+{
+    "location": {
+        "name": "Mumias",
+        "region": "Mumias",
+        "country": "Kenya",
+        "lat": 0.333332985639572,
+        "lon": 34.4832992553711,
+        "tz_id": "Africa/Nairobi",
+        "localtime_epoch": 1734322058,
+        "localtime": "2024-12-16 07:07"
+    },
+    "current": {
+        "temp_c": 15.5,
+        "temp_f": 59.9,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "humidity": 79,
+        "feelslike_c": 15.5,
+        "feelslike_f": 59.9,
+        "uv": 0.0
+    }
+}
