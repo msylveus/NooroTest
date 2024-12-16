@@ -58,14 +58,9 @@ struct ContentView: View {
                 
             }
             
-            
-            Button("", systemImage: "magnifyingglass") {
-                textFieldVal = ""
-            }
+            Image(systemName: "magnifyingglass")
             .padding(.trailing, 20.5)
             .foregroundStyle(Color.lightGray)
-            
-            
             
         }
         .frame(height:46)
