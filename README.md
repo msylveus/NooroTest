@@ -1,9 +1,9 @@
 # NooroTest
 
 ## Instruction
-1- Download source code
-2- Run the app
-3- When searching for cities press return key to make the api request
+1. Download source code
+2. Run the app
+3. When searching for cities press return key to make the api request
 
 ## Notes
 - All temperatures are displayed in Fahrenheit
